@@ -23,8 +23,11 @@ An interactive data visualization web application built using Python and Streaml
 📂 How to Run Locally:
 
 git clone https://github.com/sanu123-bit/smart-data-visualization.git
+
 cd smart-data-visualization
+
 pip install -r requirements.txt
+
 streamlit run app.py
 
 
